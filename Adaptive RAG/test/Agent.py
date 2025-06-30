@@ -1,4 +1,3 @@
-# 통합 의약품 QA 에이전트 (LLM 기반 유연화 적용)
 import os
 import re
 import difflib
